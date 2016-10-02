@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Lingo</string>
+    <string name="translate_this_sentence">Translate this sentence</string>
+    <string name="check">CHECK</string>
+    <string name="we_love_coding">We love coding!</string>
+    <string name="try_again">Incorrect. Try again!</string>
+    <string name="success">Correct! You solved it!</string>
+</resources>
